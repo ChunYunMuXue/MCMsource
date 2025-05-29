@@ -4,4 +4,4 @@
 
 祝大家以后的美赛都能有优秀的成绩
 
-![封面](D:\ArticleAndStudy\other_contest\Math_contest\American_25_1_24\picture\source\封面.png)
+![MCMsource/source/封面.png at master · ChunYunMuXue/MCMsource](https://github.com/ChunYunMuXue/MCMsource/blob/master/source/封面.png)
